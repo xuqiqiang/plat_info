@@ -1,5 +1,5 @@
 name: plat_info
-description: A new Flutter project.
+description: A Flutter plugin to get platform info.
 version: 0.0.1
 repository: https://github.com/xuqiqiang/plat_info
 
