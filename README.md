@@ -1,6 +1,6 @@
 # plat_info
 
-A new Flutter project.
+A Flutter plugin to get platform info.
 
 ## Getting Started
 
